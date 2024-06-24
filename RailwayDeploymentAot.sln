@@ -5,7 +5,7 @@ VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RailwayDeploymentAot", "RailwayDeploymentAot\RailwayDeploymentAot.csproj", "{FBAFD13C-5DB0-4AC4-B8FF-4900308619CD}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2AD124D4-C83D-4FA6-9AA9-F4FEC5A600D5}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6ABC94F8-AFEC-436C-885D-4A6E3BC8818A}"
 	ProjectSection(SolutionItems) = preProject
 		railway.toml = railway.toml
 	EndProjectSection
